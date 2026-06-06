@@ -1,4 +1,6 @@
-# Hospital-Management-Dashboard
+## Dashboard Preview
+
+![Dashboard](dashboard.png)# Hospital-Management-Dashboard
 
 ## Overview
 This project analyzes hospital data using Power BI dashboards.
