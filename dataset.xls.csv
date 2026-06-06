@@ -1,0 +1,16 @@
+Age,BP,Sugar,Cholesterol,HeartRate,Symptoms,Disease
+25,Normal,Normal,Normal,72,No,0
+45,High,High,High,90,Yes,1
+30,Normal,High,Normal,75,No,0
+50,High,High,High,95,Yes,1
+35,Normal,Normal,Normal,70,No,0
+60,High,High,High,100,Yes,1
+40,Normal,High,High,85,Yes,1
+28,Normal,Normal,Normal,68,No,0
+55,High,High,High,98,Yes,1
+33,Normal,Normal,Normal,72,No,0
+48,High,High,Normal,88,Yes,1
+29,Normal,Normal,Normal,70,No,0
+52,High,High,High,92,Yes,1
+37,Normal,Normal,Normal,75,No,0
+62,High,High,High,105,Yes,1
